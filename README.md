@@ -8,4 +8,4 @@ Hi there, I'm apecode! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apecodex)](https://github.com/anuraghazra/github-readme-stats)
 
-[!](https://metrics.lecoq.io/apecodex?template=classic&config.timezone=Asia%2FShanghai)
+[![info]](https://metrics.lecoq.io/apecodex?template=classic&config.timezone=Asia%2FShanghai)
